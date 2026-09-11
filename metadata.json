@@ -1,0 +1,6 @@
+{
+  "name": "Letters",
+  "description": "An immersive vintage creative writing sanctuary with archival organization, atmospheric ambient audio, marginalia notes, and digital wax seal locking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
